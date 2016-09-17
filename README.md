@@ -1,11 +1,11 @@
 ![Project Status: Active][Project Status Image]
 
-AndroidBlobScript - ablobs - Slim script to tracer blobs for ROMs
+AndroidBlobScript - ablobs
 =================================================================
 
 **ablobs** stands for "*Android Blob Script*"   
 
-**Purpose**: It provides us a way to search what blobs is missing, using objdump, grep, sort, uniq and sed
+**Purpose**: It provides us a slim script to tracer blobs for Android ROMs to search what blobs is missing, using objdump, grep, sort, uniq and sed
 
 ---
 
