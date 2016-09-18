@@ -11,7 +11,7 @@ AndroidBlobScript - ablobs
 
 ### Usages
 
-* Download latest script (ukupgrade/ukpurge)
+* Download latest script
 ```
 curl https://raw.githubusercontent.com/Caio99BR/Android-Blob-Script/master/ablobs > ablobs
 ```
