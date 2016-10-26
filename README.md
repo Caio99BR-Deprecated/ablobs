@@ -1,5 +1,3 @@
-![Project Status: Active][Project Status Image]
-
 AndroidBlobScript - ablobs
 =================================================================
 
@@ -13,21 +11,10 @@ AndroidBlobScript - ablobs
 
 * Download latest script
 ```
-curl https://raw.githubusercontent.com/Caio99BR/Android-Blob-Script/master/ablobs > ablobs
+curl https://raw.githubusercontent.com/TeamVee/Android-Blob-Script/master/ablobs > ablobs
 ```
 
 * Call the script
 ```
 . ablobs
 ```
-
----
-
-### Author's
-[Caio Oliveira](https://plus.google.com/+CaioOBR) - ablobs author
-
-|   email	|   caiooliveirafarias0@gmail.com	|
-|:-:	|:-:	|
-
-[Project Status Image]: https://img.shields.io/badge/project-active-green.svg "Project Status: Active"
-
