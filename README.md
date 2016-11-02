@@ -11,7 +11,7 @@ AndroidBlobScript - ablobs
 
 * Download latest script
 ```
-curl https://raw.githubusercontent.com/TeamVee/Android-Blob-Script/master/ablobs > ablobs
+curl https://raw.githubusercontent.com/TeamVee/ablobs/master/ablobs > ablobs
 ```
 
 * Call the script
