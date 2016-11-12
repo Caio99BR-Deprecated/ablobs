@@ -71,8 +71,8 @@ do
 		rm -rf ${ABLOBS_MISSING_LIST}
 	fi
 
-	printf '\nRace results:\n  %s/%s\n\n' "${ABLOBS_NUMBER_OF_FILES_FOUND}" "${ABLOBS_NUMBER_OF_FILES}"
-	printf 'The list with missing files saved on:\n  %s\n\n' "${ABLOBS_MISSING_LIST}"
+	printf '\nRace results:        Not found %s of the total %s\n' "${ABLOBS_NUMBER_OF_FILES_FOUND}" "${ABLOBS_NUMBER_OF_FILES}"
+	printf 'List of missing files: %s\n\n' "${ABLOBS_MISSING_LIST}"
 
 	# Exit at end
 	break
